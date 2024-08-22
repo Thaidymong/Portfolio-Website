@@ -1,5 +1,5 @@
 import Image from "next/image";
-import bg from "../../../../public/background/contact-background.png";
+import bg from "../../../../public/background/bg6.jpg";
 
 export const metadata = {
   title: "Contact",
