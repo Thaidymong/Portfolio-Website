@@ -112,10 +112,4 @@ export const BtnList = [
     icon: "twitter",
     newTab: true,
   },
-  // {
-  //   label: "Resume",
-  //   link: "/resume.pdf",
-  //   icon: "resume",
-  //   newTab: true,
-  // },
 ];

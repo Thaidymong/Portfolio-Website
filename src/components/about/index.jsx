@@ -15,7 +15,7 @@ const AboutDetails = () => {
             Architect of Enchantment
           </h2>
           <p className="font-light  text-xs sm:text-sm md:text-base   ">
-          Hello, I'm Dymong!
+          Hello, I am Dymong!
           A passionate Web Developer with a year of hands-on experience in creating engaging and functional web experiences. My expertise lies in blending creative design with robust functionality, ensuring that every project I work on is not only visually captivating but also user-friendly.
 
           My journey in web development is powered by an array of mystical tools and languages, with JavaScript casting the core of my enchantments. I wield frameworks like React.js, Next.js, and Nest.js with precision, crafting seamless portals (websites) that connect realms (users) across the digital universe. The ancient arts of the Jamstack empower me to create fast, secure, and dynamic experiences.

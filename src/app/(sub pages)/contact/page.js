@@ -1,6 +1,5 @@
 import Image from "next/image";
 import bg from "../../../../public/background/contact-background.png";
-import Form from "@/components/contact/Form";
 
 export const metadata = {
   title: "Contact",
@@ -23,7 +22,7 @@ export default function Contact() {
             Dymong Thai
           </h1>
           <p className="text-center font-light text-sm xs:text-base">
-            Let's Connect! For any inquiries, collaborations, or just to say
+            Let is Connect! For any inquiries, collaborations, or just to say
             hello, feel free to reach out to me.
           </p>
           <p className="text-center font-light text-sm xs:text-base">
@@ -34,7 +33,6 @@ export default function Contact() {
             I look forward to hearing from you!
           </p>
         </div>
-        {/* <Form /> */}
       </article>
     </>
   );
